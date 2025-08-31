@@ -29,3 +29,42 @@ Synthetic ECG-like signals are used as examples.
 ---
 
 ## 📁 Contents
+
+descriptive_stats_ecg.ipynb # Synthetic ECG signals + descriptive stats
+README.md # This file
+assets/ # Optional: screenshots / images
+
+
+---
+
+## 🛠 Usage
+```bash
+# 1. Clone the repo
+git clone https://github.com/your-username/biomed-stats-notebooks.git
+
+# 2. Go into the folder
+cd biomed-stats-notebooks
+
+# 3. Start Jupyter
+jupyter notebook
+
+Run the notebooks interactively and experiment with the signals & stats!
+
+🤝 Contributing
+
+Contributions, translations, or improvements are welcome!
+⚠️ Keep proper credit for original content and adaptations.
+
+📄 License
+
+MIT License — see LICENSE
+
+
+---
+
+If you want, I can also **add a mini visual flair**:  
+- a sample plot screenshot  
+- a small table of example stats  
+- some inline emojis for mean, std, min/max  
+
+It would make your README **pop even more on GitHub**. Do you want me to do that?
